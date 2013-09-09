@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animated</string>
+
+    <declare-styleable name="AnimatedBackgroundLinearLayout">
+        <attr name="animatedBackground" format="color" />
+        <attr name="animatedDuration" format="integer" />
+    </declare-styleable>
+
+    <item name="tab_index" type="id" />
+
+</resources>
